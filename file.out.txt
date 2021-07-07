@@ -1,0 +1,3 @@
+Suma: 24
+Producto: 2016
+Promedio: 4.0
